@@ -1,7 +1,8 @@
 name: phone_formatter
 description: "A simple and flexible phone number formatter for Flutter, supporting mask and set of masks (dynamic country code detection)."
-version: 0.0.1
-homepage: shoshi.tech
+version: 0.0.2
+homepage: https://shoshi.tech
+github: https://github.com/ShoshiDeveloper/phone_formatter
 
 environment:
   sdk: ^3.7.2

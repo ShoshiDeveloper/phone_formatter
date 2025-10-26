@@ -6,12 +6,12 @@ A simple and flexible phone number formatter for Flutter, supporting mask and se
 
 ## 🚀 Возможности
 
-✅ Support for **dynamic masks** for different country codes
-✅ Ability to set a **fixed format** for a specific country
-✅ Input limited to digits and allowed characters
-✅ Protection against deleting the country code
-✅ Automatic insertion of digits into the first available position
-✅ Easy integration with `TextFormField` and `TextField`
+✅ Support for **dynamic masks** for different country codes  
+✅ Ability to set a **fixed format** for a specific country  
+✅ Input limited to digits and allowed characters  
+✅ Protection against deleting the country code  
+✅ Automatic insertion of digits into the first available position  
+✅ Easy integration with `TextFormField` and `TextField`  
 
 ---
 
