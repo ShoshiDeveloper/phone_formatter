@@ -4,7 +4,7 @@ A simple and flexible phone number formatter for Flutter, supporting mask and se
 
 ---
 
-## 🚀 Возможности
+## 🚀 Usecases
 
 ✅ Support for **dynamic masks** for different country codes  
 ✅ Ability to set a **fixed format** for a specific country  
